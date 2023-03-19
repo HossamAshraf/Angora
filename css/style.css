@@ -1,0 +1,13 @@
+.container-fluid{
+    background-color: rgb(36, 53, 63);
+}
+.content{
+    box-shadow: rgb(0, 0, 0) -5px 2px 54px -9px;
+}
+
+.signupanc , .signin{
+    color: white;
+}
+
+
+
